@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @enigmatixsewe
 - 👀 I’m interested in trading bots and AI
-- 🌱 I’m currently learning Computer Science from Harvard University's CS50x
+- I am a beginner to the field of Computer Science and I am teaching myself Python
 - 📫 Reach me on Reddit: u/enigmatixsewe
 - 😄 Pronouns: Him/He
 
